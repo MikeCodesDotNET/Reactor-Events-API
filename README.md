@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/Advocating/Reactor%20Space%20Events/_apis/build/status/Reactor%20Space%20Events-C#%20Function-CI)](https://dev.azure.com/Advocating/Reactor%20Space%20Events/_build/latest?definitionId=2)
+
 # Reactor Events API
 
 An Azure Function and .NET standard library for interacting with Microsoft Reactor Events API. 
